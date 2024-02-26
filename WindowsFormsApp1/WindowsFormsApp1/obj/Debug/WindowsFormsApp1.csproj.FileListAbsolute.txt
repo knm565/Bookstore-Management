@@ -1,0 +1,50 @@
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DisplayManager.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormAccount.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormBill.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormBook.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormReport.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormClient.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormLogout.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dialog.Book.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DisplayStaff.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dialog.Client.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCreateBill.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+D:\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dialog.Account.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dialog.Account.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dialog.Book.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dialog.Client.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DisplayManager.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DisplayStaff.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormAccount.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormBill.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormBook.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormClient.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCreateBill.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormLogout.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDisplayManager.FormReport.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Phân tích thiết kế hướng đối tượng\PhanTichThietKeHuongDoiTuong\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dialog.BillDetail.resources
